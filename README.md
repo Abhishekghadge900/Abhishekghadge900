@@ -86,6 +86,3 @@ Here are some cool projects I’ve been working on:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Abhishekghadge900&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
